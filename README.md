@@ -1,2 +1,2 @@
-# wiki
-WOWS documentation
+# Documentation
+WOWS documentation, located in wiki
